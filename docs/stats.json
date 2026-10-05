@@ -8,82 +8,82 @@
     "21st-dev/magic-mcp": {
       "license": "ISC",
       "pushed_at": "2026-09-09",
-      "stars": 5944
+      "stars": 5967
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-28",
-      "stars": 52692
+      "pushed_at": "2026-10-05",
+      "stars": 52983
     },
     "CircleCI-Public/mcp-server-circleci": {
       "license": "NOASSERTION",
       "pushed_at": "2026-09-22",
-      "stars": 94
+      "stars": 93
     },
     "ClickHouse/mcp-clickhouse": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-21",
-      "stars": 880
+      "pushed_at": "2026-10-01",
+      "stars": 879
     },
     "ConardLi/garden-skills": {
       "license": "MIT",
       "pushed_at": "2026-07-12",
-      "stars": 12663
+      "stars": 12742
     },
     "Flux159/mcp-server-kubernetes": {
       "license": "MIT",
-      "pushed_at": "2026-09-14",
-      "stars": 1593
+      "pushed_at": "2026-10-02",
+      "stars": 1595
     },
     "GLips/Figma-Context-MCP": {
       "license": "MIT",
-      "pushed_at": "2026-09-18",
-      "stars": 15926
+      "pushed_at": "2026-10-03",
+      "stars": 15954
     },
     "Leonxlnx/taste-skill": {
       "license": "MIT",
       "pushed_at": "2026-09-26",
-      "stars": 90801
+      "stars": 92734
     },
     "MarkusPfundstein/mcp-obsidian": {
       "license": "MIT",
       "pushed_at": "2026-08-31",
-      "stars": 4449
+      "stars": 4456
     },
     "VoltAgent/awesome-claude-code-subagents": {
       "license": "MIT",
-      "pushed_at": "2026-09-21",
-      "stars": 25375
+      "pushed_at": "2026-10-05",
+      "stars": 25506
     },
     "addyosmani/agent-skills": {
       "license": "MIT",
-      "pushed_at": "2026-09-26",
-      "stars": 99621
+      "pushed_at": "2026-10-03",
+      "stars": 101408
     },
     "anthropics/skills": {
       "license": null,
-      "pushed_at": "2026-09-24",
-      "stars": 178754
+      "pushed_at": "2026-10-03",
+      "stars": 179728
     },
     "antvis/mcp-server-chart": {
       "license": "MIT",
       "pushed_at": "2026-08-27",
-      "stars": 4386
+      "stars": 4388
     },
     "apify/actors-mcp-server": {
       "license": "MIT",
-      "pushed_at": "2026-09-27",
-      "stars": 8808
+      "pushed_at": "2026-10-05",
+      "stars": 9689
     },
     "awslabs/mcp": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-25",
-      "stars": 9737
+      "pushed_at": "2026-10-04",
+      "stars": 9753
     },
     "brave/brave-search-mcp-server": {
       "license": "MIT",
-      "pushed_at": "2026-09-26",
-      "stars": 1477
+      "pushed_at": "2026-10-03",
+      "stars": 1486
     },
     "brightdata/brightdata-mcp": {
       "license": "MIT",
@@ -93,162 +93,162 @@
     "browserbase/mcp-server-browserbase": {
       "license": "Apache-2.0",
       "pushed_at": "2026-07-20",
-      "stars": 3412
+      "stars": 3407
     },
     "browserstack/mcp-server": {
       "license": "AGPL-3.0",
-      "pushed_at": "2026-09-28",
-      "stars": 152
+      "pushed_at": "2026-10-05",
+      "stars": 151
     },
     "chroma-core/chroma-mcp": {
       "license": "Apache-2.0",
       "pushed_at": "2025-09-17",
-      "stars": 599
+      "stars": 598
     },
     "cloudflare/mcp-server-cloudflare": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-25",
-      "stars": 4326
+      "pushed_at": "2026-10-01",
+      "stars": 4353
     },
     "contains-studio/agents": {
       "license": null,
       "pushed_at": "2025-07-28",
-      "stars": 12423
+      "stars": 12417
     },
     "crystaldba/postgres-mcp": {
       "license": "MIT",
       "pushed_at": "2026-08-17",
-      "stars": 3343
+      "stars": 3372
     },
     "dbt-labs/dbt-mcp": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-25",
-      "stars": 608
+      "pushed_at": "2026-10-05",
+      "stars": 607
     },
     "e2b-dev/mcp-server": {
       "license": "Apache-2.0",
       "pushed_at": "2026-04-16",
-      "stars": 395
+      "stars": 393
     },
     "elastic/mcp-server-elasticsearch": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-19",
-      "stars": 719
+      "pushed_at": "2026-10-04",
+      "stars": 717
     },
     "elevenlabs/elevenlabs-mcp": {
       "license": "MIT",
       "pushed_at": "2026-08-20",
-      "stars": 1536
+      "stars": 1534
     },
     "exa-labs/exa-mcp-server": {
       "license": "MIT",
-      "pushed_at": "2026-09-23",
-      "stars": 5056
+      "pushed_at": "2026-10-02",
+      "stars": 5078
     },
     "firecrawl/firecrawl-mcp-server": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 7528
+      "pushed_at": "2026-10-05",
+      "stars": 7552
     },
     "getsentry/sentry-mcp": {
       "license": "NOASSERTION",
-      "pushed_at": "2026-09-28",
-      "stars": 867
+      "pushed_at": "2026-10-05",
+      "stars": 912
     },
     "github/github-mcp-server": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 33256
+      "pushed_at": "2026-10-05",
+      "stars": 33376
     },
     "iannuttall/claude-agents": {
       "license": "MIT",
       "pushed_at": "2025-07-25",
-      "stars": 2043
+      "stars": 2042
     },
     "lst97/claude-code-sub-agents": {
       "license": "MIT",
       "pushed_at": "2025-08-15",
-      "stars": 1690
+      "stars": 1696
     },
     "makenotion/notion-mcp-server": {
       "license": "MIT",
       "pushed_at": "2026-09-20",
-      "stars": 4649
+      "stars": 4660
     },
     "microsoft/azure-devops-mcp": {
       "license": "MIT",
-      "pushed_at": "2026-09-25",
-      "stars": 2032
+      "pushed_at": "2026-10-02",
+      "stars": 2044
     },
     "microsoft/mcp": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 3720
+      "pushed_at": "2026-10-05",
+      "stars": 3730
     },
     "microsoft/playwright-mcp": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-25",
-      "stars": 37650
+      "pushed_at": "2026-09-28",
+      "stars": 37827
     },
     "modelcontextprotocol/servers": {
       "license": "NOASSERTION",
-      "pushed_at": "2026-09-28",
-      "stars": 90642
+      "pushed_at": "2026-10-05",
+      "stars": 91012
     },
     "mongodb-js/mongodb-mcp-server": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-28",
-      "stars": 1138
+      "pushed_at": "2026-10-05",
+      "stars": 1140
     },
     "neondatabase/mcp-server-neon": {
       "license": "MIT",
-      "pushed_at": "2026-09-25",
-      "stars": 649
+      "pushed_at": "2026-10-04",
+      "stars": 648
     },
     "netlify/netlify-mcp": {
       "license": null,
-      "pushed_at": "2026-09-25",
-      "stars": 64
+      "pushed_at": "2026-10-05",
+      "stars": 66
     },
     "obra/superpowers": {
       "license": "MIT",
       "pushed_at": "2026-09-27",
-      "stars": 292365
+      "stars": 295479
     },
     "oraios/serena": {
       "license": "NOASSERTION",
-      "pushed_at": "2026-09-24",
-      "stars": 29869
+      "pushed_at": "2026-10-05",
+      "stars": 30000
     },
     "ruvnet/ruflo": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 73421
+      "pushed_at": "2026-10-05",
+      "stars": 73895
     },
     "samber/cc-skills-golang": {
       "license": "MIT",
-      "pushed_at": "2026-09-07",
-      "stars": 3346
+      "pushed_at": "2026-10-01",
+      "stars": 3391
     },
     "softaworks/agent-toolkit": {
       "license": "MIT",
       "pushed_at": "2026-03-05",
-      "stars": 2506
+      "stars": 2523
     },
     "stripe/ai": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 1842
+      "pushed_at": "2026-10-05",
+      "stars": 1856
     },
     "supabase/mcp": {
       "license": "Apache-2.0",
-      "pushed_at": "2026-09-28",
-      "stars": 2926
+      "pushed_at": "2026-10-05",
+      "stars": 2932
     },
     "tavily-ai/tavily-mcp": {
       "license": "MIT",
-      "pushed_at": "2026-09-16",
-      "stars": 2411
+      "pushed_at": "2026-09-29",
+      "stars": 2417
     },
     "twilio-labs/mcp": {
       "license": "MIT",
@@ -257,13 +257,13 @@
     },
     "upstash/context7": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 62490
+      "pushed_at": "2026-10-05",
+      "stars": 62702
     },
     "wshobson/agents": {
       "license": "MIT",
-      "pushed_at": "2026-09-28",
-      "stars": 40052
+      "pushed_at": "2026-10-05",
+      "stars": 40210
     }
   }
 }
