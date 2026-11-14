@@ -1,0 +1,16 @@
+{
+  "id": "kling-ai-global",
+  "type": "mcp",
+  "name": "Kling AI (Global)",
+  "description": "Official hosted image and video generation MCP for Global accounts. OAuth required; generation uses paid personal-workspace credits. Regional accounts and tasks are separate.",
+  "author": "Kling AI",
+  "tags": [
+    "image-generation",
+    "video-generation",
+    "creative"
+  ],
+  "mcp": {
+    "type": "http",
+    "url": "https://kling.ai/mcp/plugin"
+  }
+}
