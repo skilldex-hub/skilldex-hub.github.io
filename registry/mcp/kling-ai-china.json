@@ -1,0 +1,16 @@
+{
+  "id": "kling-ai-china",
+  "type": "mcp",
+  "name": "Kling AI (China)",
+  "description": "Official hosted image and video generation MCP for China accounts. OAuth required; generation uses paid personal-workspace credits. Regional accounts and tasks are separate.",
+  "author": "Kling AI",
+  "tags": [
+    "image-generation",
+    "video-generation",
+    "creative"
+  ],
+  "mcp": {
+    "type": "http",
+    "url": "https://klingai.com/mcp/plugin"
+  }
+}
