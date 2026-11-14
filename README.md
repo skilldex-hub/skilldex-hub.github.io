@@ -144,6 +144,7 @@ in an entry — use `${VAR}` placeholders (CI rejects anything that looks like a
 | `git` | Reference MCP server for reading, searching, and manipulating local Git repositories. | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) |
 | `github` | GitHub's official remote MCP server: repos, issues, pull requests, and code search. | [github/github-mcp-server](https://github.com/github/github-mcp-server) |
 | `huggingface` | Hugging Face's official remote MCP server: search models, datasets, Spaces, and papers. |  |
+| `kling-ai-global` | Official hosted image and video generation MCP for Global accounts. OAuth required; generation uses paid personal-workspace credits. Regional accounts and tasks are separate. |  |
 | `kubernetes` | MCP server for Kubernetes: manage pods, deployments, services, and cluster resources via kubectl. | [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) |
 | `linear` | Linear's official remote MCP server: issues, projects, and team workflows. |  |
 | `magic-ui` | 21st.dev's Magic MCP server: generate polished UI components from natural language. | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) |
